@@ -4,6 +4,7 @@ import { FeedBackOptions } from './FeedbackOptions/FeedbackOptions';
 import { Section } from './Section/Section';
 import { Notification } from './Notification/Notification';
 
+
 class App extends Component {
   state = { good: 0, neutral: 0, bad: 0 };
 
