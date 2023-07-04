@@ -27,7 +27,7 @@
     } 
     to {
       opacity: 1;
-      transform: translateX(370%);
+      transform: translateX(center);
     }
   }
   
